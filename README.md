@@ -1,6 +1,6 @@
 Typical quest for programmer: write quick sort.
 
-Quick sort by Tony Hoare is best compatibility, stupid and elementary algorithm for sorting everything arrays. Just divide & compare.
+Quick sort by Tony Hoare is best compatibility, simple and elementary algorithm for sorting everything arrays. Just divide & compare.
 
 P.S. _Sorry, i can't ability speak english..._
 
